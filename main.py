@@ -1,4 +1,3 @@
-# Загрузка обученной модели
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
